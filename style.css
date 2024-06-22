@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+    font-size: 3em;
+  }
+  
+  img {
+    float: right;
+    margin: -52px 37px 0px 0px;
+  }
+  
+  .one {
+    position: absolute;
+    width: 25%;
+  
+  }
+  
+  .two {
+    position: absolute;
+    left: 28%;
+    width: 25%;
+  }
+  
+  .img2 {
+    position: relative;
+    top: 72px;
+    left: 70px;
+  }
+  
+  .img1 {
+    margin: -136px 0px 0px 0px;
+    height: 187px;
+  
+  }
+  
+  .three {
+    position: absolute;
+    margin: 55% 0px 0px 0px;
+    width: 24%;
+  }
+  
+  * {
+    text-align: left;
+    background-color: #baafaf;
+  }
+  
+  .img3 {
+    width: 25%;
+    margin: 58% -25px 0px auto;
+  }
+  
+  .four {
+    position: absolute;
+    margin: 74% 0px 0px 27%;
+    width: 25%;
+  }
+  
+  .five {
+    position: absolute;
+    margin: 55% 0px 0px 55%;
+    float: left;
+    width: 24%;
+  }
